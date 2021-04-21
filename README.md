@@ -29,3 +29,9 @@ In this stage of SDLC the actual development starts and the product is built. Th
 - Write unit and functional tests (TDD)
 - Create all functionality 
 - Add style to once functionality works properly
+
+### Stage 5: Testing
+
+- Make sure unit tests pass 100%
+- Make sure functional tests pass 100%
+- Make sure manual testing pass 100% (all user's flow is good)
