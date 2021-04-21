@@ -30,7 +30,7 @@ In this stage of SDLC the actual development starts and the product is built. Th
 - Create all functionality 
 - Add style to once functionality works properly
 
-### Stage 5: Testing
+## Stage 5: Testing
 
 - Make sure unit tests pass 100%
 - Make sure functional tests pass 100%
