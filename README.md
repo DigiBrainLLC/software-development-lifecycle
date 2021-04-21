@@ -35,3 +35,13 @@ In this stage of SDLC the actual development starts and the product is built. Th
 - Make sure unit tests pass 100%
 - Make sure functional tests pass 100%
 - Make sure manual testing pass 100% (all user's flow is good)
+
+### Stage 6: Deployment and User Acceptance Testing (UAT): Beta
+
+- Deploy code to production
+- UAT begins for allotted time
+- Get UAT feedback
+- While client does not accept:
+    - Make changes and get feedback
+- Client signs off on project 
+
