@@ -13,3 +13,11 @@ Once the requirement analysis is done the next step is to clearly define and doc
 
 - Create Software Requirements Specification (SRS): https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document
 - Get client approval on SRS
+
+## Stage 3: Designing the Product Architecture
+
+A design approach clearly defines all the architectural modules of the product along with its communication and data flow representation with the external and third party modules (if any). The internal design of all the modules of the proposed architecture should be clearly defined with the minutest of the details in Design Document Specification (DDS).
+
+- Wireframe design / data-flow representation
+- API tables and docs
+- Have client sign contract
