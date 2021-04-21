@@ -21,3 +21,11 @@ A design approach clearly defines all the architectural modules of the product a
 - Wireframe design / data-flow representation
 - API tables and docs
 - Have client sign contract
+
+## Stage 4: Development
+
+In this stage of SDLC the actual development starts and the product is built. The programming code is generated as per DDS during this stage. If the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle.
+
+- Write unit and functional tests (TDD)
+- Create all functionality 
+- Add style to once functionality works properly
